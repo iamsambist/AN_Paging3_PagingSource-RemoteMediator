@@ -1,4 +1,9 @@
-﻿The Paging 3 Library is a new library to fetch and display pages of data from a large data set from API or Database.
+1. Inside paginationsimulation project i didn't make any network call instead stimulate the network call and implement the pagination on list of 100 items
+2. inside api call key i stimulate the pagination using single source of data i.e pagination through paginSource here we didn't really cache the data into local storage i.e room or sqlite database
+3. it is complete project where we build an paging application with local cache through RemoteMediator using paging3 library thanks
+
+
+The Paging 3 Library is a new library to fetch and display pages of data from a large data set from API or Database.
 
 
 Loading data on Demand needs following things implemented correctly.
